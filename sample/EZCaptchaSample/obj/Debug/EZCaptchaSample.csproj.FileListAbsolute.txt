@@ -1,0 +1,9 @@
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\bin\Debug\EZCaptchaSample.exe
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\bin\Debug\EZCaptchaSample.pdb
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.MainForm.resources
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.Properties.Resources.resources
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.exe
+D:\Microsoft Visual Studio\2020Project\EZCaptchaSample\EZCaptchaSample\obj\Debug\EZCaptchaSample.pdb
